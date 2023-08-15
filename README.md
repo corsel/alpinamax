@@ -5,3 +5,5 @@
 ![](emu.png)
 
 ## Doğru söylüyor
+
+Vay arkadaş iki dakika başka yere baktık commitler akmış hemen :D Helal. 
