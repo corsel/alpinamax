@@ -15,6 +15,14 @@ def parse_file(filename):
     name_list = list(()) # empty list
 
     # TODO(weltas): Open `filename` file. Read it line by line in a loop. (https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python)
+    a= open('wordlist.txt', 'r')
+    lines = a.readlines()
+    # bu lines ın tipi ne oldu acaba? liste tipi mi oldu acep? bunlara bak
+    count = 0
+    for line in lines
+        count = count + 1
+        
+    
 
     # TODO(weltas): In the loop, append each read name to `name_list` and return the list. (https://www.w3schools.com/python/python_lists_add.asp)
 
