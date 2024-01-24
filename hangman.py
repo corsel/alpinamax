@@ -10,6 +10,8 @@ def print_debug(string):
     if DEBUG: print(string)
 #######
 
+# deneme
+
 def parse_file(filename):
     print_debug("parse_file: Called... Filename is " + filename)
     name_list = list(()) # empty list
